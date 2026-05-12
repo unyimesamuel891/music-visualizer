@@ -2,7 +2,7 @@
 
 A modern, elegant web application that visualizes music in real-time using the Web Audio API and HTML5 Canvas. The visualizer creates organic, fluid animations that respond to audio frequencies, offering an immersive experience that moves away from traditional bar-graph visualizations.
 
-**Live Demo:** [View on Manus](https://music-visualizer.manus.space)
+**Live Demo:** [View Live](https://music-visualizer-blush.vercel.app/)
 
 ## Features
 
